@@ -1,6 +1,24 @@
 # ACTIVE DIRECTORY IMPLEMENTATION                                             
 
 | Home Page               | <a href="https://github.com/poulmhiripiri/poulmhiripiri/tree/main">Home</a>
+
+
+
+
+
+
+🧩 Project 1: Active Directory & Endpoint Management
+
+
+📌 ### Title: Enterprise-Grade Identity & Endpoint Control using Microsoft Active Directory
+
+
+
+🧾 ## Objective
+
+Built a domain-based environment using Windows Server 2019 to simulate centralized identity and endpoint control through Active Directory (AD) and Group Policy Objects (GPOs).
+
+
 ## Objective
 [Brief Objective - Remove this afterwards]
 
