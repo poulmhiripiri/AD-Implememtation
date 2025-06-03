@@ -4,13 +4,7 @@
 
 
 
-
-
-
-🧩 Project 1: Active Directory & Endpoint Management
-
-
-📌 ### Title: Enterprise-Grade Identity & Endpoint Control using Microsoft Active Directory
+ ### 📌 Title: Enterprise-Grade Identity & Endpoint Control using Microsoft Active Directory
 
 
 
