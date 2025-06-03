@@ -14,7 +14,7 @@
 
 
 
-🧾 ## Objective
+ ## 🧾 Objective
 
 Built a domain-based environment using Windows Server 2019 to simulate centralized identity and endpoint control through Active Directory (AD) and Group Policy Objects (GPOs).
 
@@ -48,3 +48,11 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+
+### Outcomes:
+
+    Realistic simulation of enterprise workstation policies.
+
+    Demonstrated endpoint security, compliance, and automation.
+
+    Centralized administration and faster onboarding processes.
